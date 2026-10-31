@@ -22,14 +22,20 @@ Utilizo este GitHub para documentar meus estudos, desenvolver laboratórios prá
 
 ## Tecnologias e ferramentas em desenvolvimento
 
-- Linux
-- Git e GitHub
-- Redes de computadores
-- AWS
-- Wazuh
-- Wireshark
-- Python
-- Fundamentos de segurança da informação
+## 🛠️ Tecnologias e Ferramentas
+
+### Sistemas Operacionais
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
+
+### Programação
+<img src="https://skillicons.dev/icons?i=python,bash,git,github" />
+
+### Cloud Computing
+<img src="https://skillicons.dev/icons?i=aws" />
+
+### Desenvolvimento e Segurança
+<img src="https://skillicons.dev/icons?i=vscode,docker" />
+
 
 *As tecnologias serão adicionadas ao meu portfólio conforme avanço nos estudos e na prática.*
 
