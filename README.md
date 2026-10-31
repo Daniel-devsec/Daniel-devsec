@@ -1,16 +1,62 @@
-## Hi there 👋
 
-<!--
-**Daniel-devsec/Daniel-devsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá! Seja bem-vindo(a) ao meu GitHub 👋
 
-Here are some ideas to get you started:
+##  Estudante de Defesa Cibernética | Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou estudante de Defesa Cibernética na FATEC e estou desenvolvendo minhas habilidades na área de Tecnologia da Informação, com foco em Segurança da Informação.
+
+Tenho interesse especial em:
+
+-  Cybersecurity
+-  Blue Team e Security Operations Center (SOC)
+-  Cloud Security e AWS
+-  Linux e administração de sistemas
+-  Redes de computadores
+-  Monitoramento e análise de incidentes
+
+##  Objetivo profissional
+
+Meu objetivo é construir uma carreira em Cybersecurity, especialmente nas áreas de Blue Team, SOC e segurança em ambientes Cloud.
+
+Utilizo este GitHub para documentar meus estudos, desenvolver laboratórios práticos, compartilhar projetos e acompanhar minha evolução técnica.
+
+## Tecnologias e ferramentas em desenvolvimento
+
+- Linux
+- Git e GitHub
+- Redes de computadores
+- AWS
+- Wazuh
+- Wireshark
+- Python
+- Fundamentos de segurança da informação
+
+*As tecnologias serão adicionadas ao meu portfólio conforme avanço nos estudos e na prática.*
+
+##  Laboratórios e projetos
+
+Estou construindo meu portfólio com projetos práticos relacionados a:
+
+- Laboratórios de Linux e redes
+- Monitoramento de segurança com Wazuh
+- Análise de tráfego de rede com Wireshark
+- Fundamentos de segurança em AWS
+- Estudos de detecção e resposta a incidentes
+
+##  Atualmente estudando
+
+- Fundamentos de Cybersecurity
+- Linux
+- Redes de computadores
+- Blue Team e SOC
+- Segurança em Cloud (AWS)
+
+##  Contato
+
+- LinkedIn: https://www.linkedin.com/in/daniel-silva-90b31a448
+- E-mail: silvapessoaltrabalho@gmail.com
+
+---
+
+*"Learning by doing. Building knowledge, one lab at a time."*
+
