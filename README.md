@@ -37,6 +37,14 @@ Utilizo este GitHub para documentar meus estudos, desenvolver laboratórios prá
 <img src="https://skillicons.dev/icons?i=vscode,docker" />
 
 
+### Cybersecurity Tools
+
+<img src="https://img.shields.io/badge/Wazuh-SIEM-1679A7?style=for-the-badge&logo=wazuh&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/TryHackMe-Cybersecurity-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+
+
+
 *As tecnologias serão adicionadas ao meu portfólio conforme avanço nos estudos e na prática.*
 
 ##  Laboratórios e projetos
